@@ -1,0 +1,12 @@
+body{
+    background-image: url("submit.jpg");
+   background-size: cover;
+
+}
+h1{
+    color: red;
+}
+ul li a {
+    list-style: none;
+    color:pink;
+}

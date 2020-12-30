@@ -1,0 +1,27 @@
+body {
+    background-image: url("payment.jpg") ;
+  background-size:cover;
+  background-position: center;
+ 
+  }
+
+
+.form_group {  
+    padding: 10px;  
+  display: block;
+  color: darkorchid;
+  background-color:white ;
+width: fit-content;
+  }
+  .form_group1 {  
+    padding: 10px;  
+  display: block;
+  
+  }
+  label {  
+    float: left; 
+    padding-right: 50px;  
+    line-height: 10%;  
+    display: block;  
+    width: 208px;  
+  }   

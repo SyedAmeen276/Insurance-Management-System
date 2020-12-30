@@ -1,0 +1,49 @@
+.container {  
+  max-width: 1350px;  
+  width: 100%;  
+  margin: 30px;  
+  height: 10px;  
+  display: block;  
+} 
+h2 {  
+  text-align: center;  
+  color: red;
+}
+h1 {  
+  text-align: center;  
+  color: red;
+}
+body {
+  background-image: url("claim.jpeg") ;
+background-size:cover;
+background-position: center;
+ height: 400px;
+font-family:arial, Helvetica, monospace;
+font-size:20px ;
+background-color: black;
+color: darkslateblueS;
+}
+.form_group {  
+  padding: 10px;  
+display: block;
+color: darkorchid;
+}
+label {  
+  float: left; 
+  padding-right: 50px;  
+  line-height: 10%;  
+  display: block;  
+  width: 208px;  
+}   
+ul {
+  list-style: none;
+}
+ul li a {
+  list-style: none;
+  color:pink;
+}
+tr td {
+background-color: black;
+color: white;
+opacity: .9;
+}
